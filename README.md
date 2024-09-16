@@ -3,7 +3,7 @@ This is a Memory Game written in basic html, css and js.
 Clone the repository using the following command: 
 
 ```bash
-git clone https://github.com/VoIDWALkER7/Memory-Game.git
+git clone https://github.com/VoIDWALkER7/MemDom.git
 ```
 
 then go in the folder and click on index.html
